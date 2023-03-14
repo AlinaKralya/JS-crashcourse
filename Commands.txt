@@ -1,0 +1,21 @@
+Послідовність команд при першій ініціалізації репозиторія:
+
+git init
+
+git remote add <url of your repository>
+
+git add .
+
+git commit -m "some text"
+
+git push origin master (при умові якщо гілка називається master)
+
+
+
+Послідовність команд при подальших роботах із репозиторієм:
+
+git add .
+
+git commit -m "some text"
+
+git push origin master (при умові якщо гілка називається master)

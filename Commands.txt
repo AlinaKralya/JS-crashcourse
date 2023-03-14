@@ -2,7 +2,7 @@
 
 git init
 
-git remote add <url of your repository>
+git remote add origin <url of your repository>
 
 git add .
 
